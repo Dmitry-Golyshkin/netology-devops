@@ -11,3 +11,4 @@
 файлы в названии которых есть '_override.tf.json'
 файлы .terraformrc
 файлы terraform.rc
+new row
