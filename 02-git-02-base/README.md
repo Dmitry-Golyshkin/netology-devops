@@ -242,6 +242,7 @@ branch 'fix' set up to track 'origin/fix'.
 PS C:\netology-devops>
 
 ```
+![img.png](img/img14.png)
 ### BitBucket
 ```angular2html
 PS C:\netology-devops> git checkout dc378fb
